@@ -14,9 +14,8 @@
   <img align="left" alt="Votana's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
 
-Hello Checkers, This is [Votana SREY], a passionate self-taught Full-Stack Data Science & a R&D field from Cambodia. A passionate in science and highly inquisitive student who’s majoring in computer science that specializing in data engineering, data modeling, and data analytics skill. Over more Experienced with development and research with innovative and creative skills and the ability to use my own initiative and work as a part of a team under pressure to meet challenging deadlines and objective communication, networking, and organizational skill.
+This is [Votana SREY], a passionate self-taught Full-Stack Data Science & a R&D field from Cambodia. A passionate in science and highly inquisitive student who’s majoring in computer science that specializing in data engineering, data modeling, and data analytics skill. Over more Experienced with development and research with innovative and creative skills and the ability to use my own initiative and work as a part of a team under pressure to meet challenging deadlines and objective communication, networking, and organizational skill.
 
 <br />
 
