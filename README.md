@@ -19,8 +19,8 @@ This is [Votana SREY], a passionate self-taught Full-Stack Data Science & a R&D 
 
 - 💼 Any freelance work or job? do reach, [email](votana.srey@gmail.com) :)
 - 💬 Ask me about anything, I am appreciated to help;
-- 
 <br />
+
 **Main Languages:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![BigQuery](https://img.shields.io/badge/-bigquery-black?style=flat-square&logo=bigquery)
