@@ -22,10 +22,9 @@ Hello Checkers, This is [Votana SREY], a passionate self-taught Full-Stack Data 
 <br />
 
 - 💼 Any freelance work or job? do reach, [email](votana.srey@gmail.com) :)
-<br />
 - 💬 Ask me about anything, I am appreciated to help;
 
-
+<br />
 **Main Languages:**  
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
