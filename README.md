@@ -1,5 +1,7 @@
 ### Hoola Guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <br />
+
 <a href="https://www.instagram.com/votana.srey/">
   <img align="left" alt="Votana's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -18,11 +20,14 @@
 Hello Checkers, This is [Votana SREY], a passionate self-taught Full-Stack Data Science & a R&D field from Cambodia. A passionate in science and highly inquisitive student who’s majoring in computer science that specializing in data engineering, data modeling, and data analytics skill. Over more Experienced with development and research with innovative and creative skills and the ability to use my own initiative and work as a part of a team under pressure to meet challenging deadlines and objective communication, networking, and organizational skill.
 
 <br />
+
 - 💼 Any freelance work or job? do reach, [email](votana.srey@gmail.com) :)
 <br />
 - 💬 Ask me about anything, I am appreciated to help;
-<br />
+
+
 **Main Languages:**  
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![BigQuery](https://img.shields.io/badge/-bigquery-black?style=flat-square&logo=bigquery)
 ![SQL](https://img.shields.io/badge/-sql-black?style=flat-square&logo=sql)
