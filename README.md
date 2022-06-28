@@ -52,7 +52,7 @@ Development   ████████████████████▒░
 <br />
 🏆  1st Winner @ ASEAN-India Hackathon 2021
 <br />
-🏆  National Winner @ ASEAN Data Science Explorer 2021
+🏆  Top National @ ASEAN Data Science Explorer 2021
 <br />
 🏆  2rd Winner @ MIS Challenges
 <br />
