@@ -56,7 +56,7 @@ Development   ████████████████████▒░
 <br />
 🏆  2rd Winner @ MIS Challenges
 <br />
-🏆  Alumni @ Huawei Seeds for the future 2020
+🏆  Alumni @ Huawei Seeds for the Future 2020
 <br />
 🏆  Alumni @ AWS Machine Learning Foundations by Udacity X AWS
 
